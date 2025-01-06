@@ -16,7 +16,7 @@ function Projects() {
                 />
                 <ProjectCard 
                     src={Portfolio} 
-                    link="https://github.com/thaivinhle/Weather-App"
+                    link="https://github.com/thaivinhle/thai-le"
                     h3="Portfolio"
                     p="Personal Portfolio Website (Current Website)"
                 />
